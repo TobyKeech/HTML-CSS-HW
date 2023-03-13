@@ -1,0 +1,43 @@
+
+.Top {
+  background-color: cornflowerblue;
+  color: white;
+
+}
+
+.MainArticle {
+  margin: auto;
+  width: 80%;
+  padding: 10px;
+}
+
+.CommentSection {
+  margin: auto;
+  width: 80%;
+  padding: 10px;
+}
+
+.CommentBox {
+  width: 80%;
+  height: 100px;
+}
+
+#commentbutton {
+  position: absolute;
+  right: 26%
+}
+
+.users {
+  margin: auto;
+  width: 80%;
+}
+
+footer {
+  background-color: cornflowerblue;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+  width: 100%;
+  width:100%;
+  
+}
